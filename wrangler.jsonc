@@ -12,10 +12,6 @@
     "binding": "ASSETS",
     "directory": ".open-next/assets"
   },
-  "route": {
-    "pattern": "windsweptalleys.com/*",
-    "zone_name": "windsweptalleys.com"
-  },
   "observability": {
     "enabled": true
   }
