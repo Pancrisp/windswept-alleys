@@ -28,14 +28,14 @@ export default function FilterBar({ cuisines, locations, priceRanges, onFiltersC
     setFilters(newFilters);
     
     const cleanFilters = Object.fromEntries(
-      Object.entries(newFilters).filter(([_, v]) => v !== '')
+      Object.entries(newFilters).filter(([, v]) => v !== '')
     );
     
     onFiltersChange(cleanFilters);
   };
 
   const clearFilters = () => {
-    const emptyFilters = { cuisine: '', location: '', priceRange: '' as '', search: '' };
+    const emptyFilters = { cuisine: '', location: '', priceRange: '' as const, search: '' };
     setFilters(emptyFilters);
     onFiltersChange({});
   };

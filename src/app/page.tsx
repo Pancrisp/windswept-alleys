@@ -72,7 +72,7 @@ export default function Home() {
             <div className="flex flex-wrap gap-2">
               {filters.search && (
                 <span className="text-sm bg-blue-100 text-blue-800 px-3 py-1 rounded-full">
-                  Search: "{filters.search}"
+                  {`Search: "${filters.search}"`}
                 </span>
               )}
               {filters.cuisine && (

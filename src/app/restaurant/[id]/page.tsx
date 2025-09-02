@@ -4,11 +4,12 @@ import Link from 'next/link';
 import { getRestaurantById, cuisines, locations } from '@/lib/data';
 
 interface RestaurantPageProps {
-  params: { id: string };
+  params: Promise<{ id: string }>;
 }
 
-export default function RestaurantPage({ params }: RestaurantPageProps) {
-  const restaurant = getRestaurantById(params.id);
+export default async function RestaurantPage({ params }: RestaurantPageProps) {
+  const { id } = await params;
+  const restaurant = getRestaurantById(id);
 
   if (!restaurant) {
     notFound();
