@@ -1,0 +1,182 @@
+[
+  {
+    "id": "bella-vista",
+    "name": "Bella Vista",
+    "cuisine": "Italian",
+    "location": "North End",
+    "rating": 4.5,
+    "priceRange": "$$",
+    "phone": "(617) 555-0123",
+    "address": "123 Hanover Street, Boston, MA 02113",
+    "website": "https://bellavista-boston.com",
+    "hours": {
+      "monday": "5:00 PM - 10:00 PM",
+      "tuesday": "5:00 PM - 10:00 PM",
+      "wednesday": "5:00 PM - 10:00 PM",
+      "thursday": "5:00 PM - 10:00 PM",
+      "friday": "5:00 PM - 11:00 PM",
+      "saturday": "4:00 PM - 11:00 PM",
+      "sunday": "4:00 PM - 9:00 PM"
+    },
+    "features": ["Romantic", "Wine Bar", "Outdoor Seating"],
+    "atmosphere": "Intimate and romantic with dim lighting and exposed brick walls",
+    "bestFor": ["Date Night", "Anniversary", "Special Occasion"],
+    "review": "Bella Vista captures the essence of authentic Italian dining in Boston's historic North End. The handmade pasta is exceptional, particularly the lobster ravioli in sage butter sauce. The wine selection is carefully curated with excellent Italian varietals. Service is attentive without being intrusive, and the cozy atmosphere makes it perfect for romantic dinners. The tiramisu is a must-try - light, creamy, and perfectly balanced.",
+    "highlights": [
+      "Handmade pasta made fresh daily",
+      "Extensive Italian wine collection",
+      "Intimate candlelit ambiance",
+      "Expert sommelier recommendations"
+    ],
+    "images": [
+      "/images/bella-vista-exterior.jpg",
+      "/images/bella-vista-interior.jpg",
+      "/images/bella-vista-pasta.jpg"
+    ],
+    "featuredImage": "/images/bella-vista-featured.jpg"
+  },
+  {
+    "id": "harbor-fish-market",
+    "name": "Harbor Fish Market",
+    "cuisine": "Seafood",
+    "location": "Seaport",
+    "rating": 4.8,
+    "priceRange": "$$$",
+    "phone": "(617) 555-0456",
+    "address": "456 Northern Avenue, Boston, MA 02210",
+    "website": "https://harborfishmarket.com",
+    "hours": {
+      "monday": "11:30 AM - 9:00 PM",
+      "tuesday": "11:30 AM - 9:00 PM",
+      "wednesday": "11:30 AM - 9:00 PM",
+      "thursday": "11:30 AM - 9:00 PM",
+      "friday": "11:30 AM - 10:00 PM",
+      "saturday": "11:00 AM - 10:00 PM",
+      "sunday": "11:00 AM - 9:00 PM"
+    },
+    "features": ["Harbor Views", "Raw Bar", "Fresh Daily Catch"],
+    "atmosphere": "Upscale casual with stunning harbor views and nautical decor",
+    "bestFor": ["Business Lunch", "Celebration", "Seafood Lovers"],
+    "review": "Harbor Fish Market is a seafood lover's paradise with the freshest catch in Boston. The raw bar is impeccable, featuring daily selections of oysters and clams. Their signature lobster roll is generous and perfectly dressed. The fish and chips use sustainable cod with a light, crispy batter. The harbor views from the dining room are spectacular, especially at sunset. Service is knowledgeable about sourcing and preparation methods.",
+    "highlights": [
+      "Daily fresh catch from local boats",
+      "Award-winning New England clam chowder",
+      "Panoramic Boston Harbor views",
+      "Sustainable seafood practices"
+    ],
+    "images": [
+      "/images/harbor-fish-exterior.jpg",
+      "/images/harbor-fish-rawbar.jpg",
+      "/images/harbor-fish-lobster.jpg"
+    ],
+    "featuredImage": "/images/harbor-fish-featured.jpg"
+  },
+  {
+    "id": "spice-garden",
+    "name": "Spice Garden",
+    "cuisine": "Indian",
+    "location": "Cambridge",
+    "rating": 4.3,
+    "priceRange": "$",
+    "phone": "(617) 555-0789",
+    "address": "789 Mass Ave, Cambridge, MA 02139",
+    "website": "https://spicegardenboston.com",
+    "hours": {
+      "monday": "11:00 AM - 9:30 PM",
+      "tuesday": "11:00 AM - 9:30 PM",
+      "wednesday": "11:00 AM - 9:30 PM",
+      "thursday": "11:00 AM - 9:30 PM",
+      "friday": "11:00 AM - 10:00 PM",
+      "saturday": "11:00 AM - 10:00 PM",
+      "sunday": "12:00 PM - 9:30 PM"
+    },
+    "features": ["Vegetarian Friendly", "Spice Level Customization", "Lunch Buffet"],
+    "atmosphere": "Casual and welcoming with traditional Indian decor and warm colors",
+    "bestFor": ["Family Dinner", "Casual Dining", "Vegetarians"],
+    "review": "Spice Garden offers authentic Indian flavors at incredible value. The lunch buffet is a standout, featuring a rotating selection of curries, dal, and fresh naan. Their chicken tikka masala strikes the perfect balance of creamy and spiced. The staff is accommodating with spice levels and dietary restrictions. The portions are generous, and the mango lassi is refreshingly authentic. A hidden gem for both curry novices and enthusiasts.",
+    "highlights": [
+      "Extensive lunch buffet with daily specials",
+      "Customizable spice levels from mild to very hot",
+      "Fresh naan baked to order",
+      "Excellent vegetarian and vegan options"
+    ],
+    "images": [
+      "/images/spice-garden-interior.jpg",
+      "/images/spice-garden-curry.jpg",
+      "/images/spice-garden-buffet.jpg"
+    ],
+    "featuredImage": "/images/spice-garden-featured.jpg"
+  },
+  {
+    "id": "corner-cafe",
+    "name": "Corner Café",
+    "cuisine": "American",
+    "location": "Back Bay",
+    "rating": 4.1,
+    "priceRange": "$",
+    "phone": "(617) 555-0321",
+    "address": "321 Newbury Street, Boston, MA 02115",
+    "website": "https://cornercafeboston.com",
+    "hours": {
+      "monday": "7:00 AM - 3:00 PM",
+      "tuesday": "7:00 AM - 3:00 PM",
+      "wednesday": "7:00 AM - 3:00 PM",
+      "thursday": "7:00 AM - 3:00 PM",
+      "friday": "7:00 AM - 4:00 PM",
+      "saturday": "8:00 AM - 4:00 PM",
+      "sunday": "8:00 AM - 3:00 PM"
+    },
+    "features": ["Free WiFi", "Pet Friendly", "Local Coffee"],
+    "atmosphere": "Cozy neighborhood cafe with exposed brick and local artwork",
+    "bestFor": ["Breakfast", "Coffee Meeting", "Casual Brunch"],
+    "review": "Corner Café is a beloved neighborhood spot that nails the basics. Their breakfast sandwiches are hearty and satisfying, made with local eggs and artisan bread. The coffee is consistently excellent - they roast their own beans with rotating single origins. The avocado toast topped with everything seasoning is simple but perfect. It gets busy on weekends, but the friendly staff keeps things moving. A reliable choice for a casual morning meal.",
+    "highlights": [
+      "House-roasted coffee with rotating origins",
+      "Fresh-baked pastries and muffins daily",
+      "Cozy atmosphere perfect for working",
+      "Supporting local suppliers and artists"
+    ],
+    "images": [
+      "/images/corner-cafe-exterior.jpg",
+      "/images/corner-cafe-coffee.jpg",
+      "/images/corner-cafe-breakfast.jpg"
+    ],
+    "featuredImage": "/images/corner-cafe-featured.jpg"
+  },
+  {
+    "id": "sakura-sushi",
+    "name": "Sakura Sushi",
+    "cuisine": "Japanese",
+    "location": "Chinatown",
+    "rating": 4.6,
+    "priceRange": "$$$",
+    "phone": "(617) 555-0654",
+    "address": "654 Washington Street, Boston, MA 02111",
+    "website": "https://sakurasushiboston.com",
+    "hours": {
+      "monday": "Closed",
+      "tuesday": "5:00 PM - 10:00 PM",
+      "wednesday": "5:00 PM - 10:00 PM",
+      "thursday": "5:00 PM - 10:00 PM",
+      "friday": "5:00 PM - 11:00 PM",
+      "saturday": "5:00 PM - 11:00 PM",
+      "sunday": "5:00 PM - 9:00 PM"
+    },
+    "features": ["Omakase", "Fresh Sashimi", "Sake Selection"],
+    "atmosphere": "Authentic sushi bar with minimalist design and chef's counter seating",
+    "bestFor": ["Special Occasion", "Sushi Enthusiasts", "Business Dinner"],
+    "review": "Sakura Sushi is where you go for the finest sushi experience in Boston. Chef Tanaka sources exceptional fish, including daily specials flown in from Japan. The omakase experience is transcendent - each piece is crafted with precision and presented at the perfect temperature. The sake selection is curated to complement the menu perfectly. Reservations are essential, and sitting at the sushi counter provides an educational experience watching the masters at work.",
+    "highlights": [
+      "Daily fish flown in from Tsukiji Market",
+      "Traditional omakase tasting menu",
+      "Expert sake pairings",
+      "Authentic Japanese preparation techniques"
+    ],
+    "images": [
+      "/images/sakura-sushi-counter.jpg",
+      "/images/sakura-sushi-omakase.jpg",
+      "/images/sakura-sushi-chef.jpg"
+    ],
+    "featuredImage": "/images/sakura-sushi-featured.jpg"
+  }
+]

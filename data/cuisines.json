@@ -1,0 +1,32 @@
+{
+  "Italian": {
+    "description": "Traditional Italian cuisine featuring fresh pasta, rich sauces, and regional specialties",
+    "characteristics": ["pasta", "wine", "romantic", "family-style"],
+    "typicalPriceRange": "$$-$$$",
+    "dietaryOptions": ["vegetarian", "gluten-free options"]
+  },
+  "Seafood": {
+    "description": "Fresh fish and shellfish prepared with coastal New England influences",
+    "characteristics": ["fresh catch", "raw bar", "harbor views", "seasonal"],
+    "typicalPriceRange": "$$$-$$$$",
+    "dietaryOptions": ["pescatarian", "low-carb"]
+  },
+  "Indian": {
+    "description": "Authentic Indian flavors with aromatic spices, curries, and traditional cooking methods",
+    "characteristics": ["spicy", "vegetarian-friendly", "aromatic", "family-recipes"],
+    "typicalPriceRange": "$-$$",
+    "dietaryOptions": ["vegetarian", "vegan", "gluten-free options"]
+  },
+  "American": {
+    "description": "Classic American comfort food and contemporary interpretations of traditional dishes",
+    "characteristics": ["comfort food", "casual", "local ingredients", "brunch"],
+    "typicalPriceRange": "$-$$",
+    "dietaryOptions": ["vegetarian", "vegan options"]
+  },
+  "Japanese": {
+    "description": "Authentic Japanese cuisine featuring fresh sushi, sashimi, and traditional preparations",
+    "characteristics": ["fresh fish", "precision", "minimalist", "seasonal"],
+    "typicalPriceRange": "$$-$$$$",
+    "dietaryOptions": ["pescatarian", "gluten-free options"]
+  }
+}

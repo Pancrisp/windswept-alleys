@@ -1,0 +1,42 @@
+{
+  "North End": {
+    "description": "Historic Italian neighborhood with cobblestone streets and authentic trattorias",
+    "neighborhood": "North End",
+    "characteristics": ["historic", "walkable", "italian heritage", "touristy"],
+    "transportation": ["Blue/Orange Line - Haymarket", "Green Line - Government Center"],
+    "parking": "Limited street parking, nearby garages available",
+    "atmosphere": "Charming old-world European feel with narrow streets and historic architecture"
+  },
+  "Seaport": {
+    "description": "Modern waterfront district with contemporary restaurants and harbor views",
+    "neighborhood": "Seaport District",
+    "characteristics": ["modern", "waterfront", "business district", "upscale"],
+    "transportation": ["Silver Line - World Trade Center", "Red Line - South Station"],
+    "parking": "Multiple parking garages, valet available at most restaurants",
+    "atmosphere": "Contemporary and sleek with stunning water views and new development"
+  },
+  "Cambridge": {
+    "description": "Academic hub near Harvard and MIT with diverse dining options",
+    "neighborhood": "Cambridge",
+    "characteristics": ["academic", "diverse", "student-friendly", "intellectual"],
+    "transportation": ["Red Line - Harvard Square", "Multiple bus routes"],
+    "parking": "Metered street parking, municipal lots available",
+    "atmosphere": "Vibrant college town energy with bookstores, cafes, and cultural attractions"
+  },
+  "Back Bay": {
+    "description": "Upscale neighborhood with Victorian architecture and shopping on Newbury Street",
+    "neighborhood": "Back Bay",
+    "characteristics": ["upscale", "shopping", "victorian", "trendy"],
+    "transportation": ["Green Line - Copley", "Orange Line - Back Bay Station"],
+    "parking": "Metered parking, several parking garages",
+    "atmosphere": "Sophisticated urban setting with tree-lined streets and high-end boutiques"
+  },
+  "Chinatown": {
+    "description": "Cultural enclave with authentic Asian restaurants and markets",
+    "neighborhood": "Chinatown",
+    "characteristics": ["authentic", "cultural", "affordable", "late-night"],
+    "transportation": ["Orange Line - Chinatown", "Red Line - Downtown Crossing"],
+    "parking": "Limited street parking, nearby garages",
+    "atmosphere": "Bustling cultural district with traditional architecture and authentic flavors"
+  }
+}
